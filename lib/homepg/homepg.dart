@@ -139,7 +139,7 @@ class _HomePgState extends State<HomePg> {
     //hiveGetAction();
     return Scaffold(
       appBar: AppBar(
-        title: const Text("ansvGen v0.2.1"),
+        title: const Text("ansvGen v1.0.0"),
         centerTitle: true,
       ),
       body: Material(
